@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h2 align="center">Hey, I'm Mehul Bhowmick </h2><br>
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnF6dW04ZG94Ymtka2FxZTh3aDYzcHN5d2UyeGJ6YTJ0c2xqZ2ZhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yk7dL2xTgcbRlru3ci/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk0bnl0bTJtMHp0NWsxdmJzampkYnEycGc0bGtvMGN6Y2o2MXFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ALu1Nuho2eXOyoGJ8u/giphy.gif" width="200"/>
 </div>
 <br>🚀 Full Stack Blockchain Developer | ☁️ Cloud Enthusiast | 🤖 AI & ML Explorer | 🎨 Graphic Designer<br><br>🧠 About Me<br><br>🔗 Passionate about Blockchain & Smart Contract Development<br>🌐 Building scalable Full Stack Applications<br>☁️ Exploring Cloud & DevOps<br>🤖 Curious about AI, ML & Intelligent Systems<br>🎨 Designing digital experiences with a creative edge<br><br>I love building tech that feels futuristic but solves real-world problems.
 
