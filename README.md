@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hey, I'm Mehul Bhowmick<br><br>🚀 Full Stack Blockchain Developer | ☁️ Cloud Enthusiast | 🤖 AI & ML Explorer | 🎨 Graphic Designer<br><br>🧠 About Me<br><br>🔗 Passionate about Blockchain & Smart Contract Development<br>🌐 Building scalable Full Stack Applications<br>☁️ Exploring Cloud & DevOps<br>🤖 Curious about AI, ML & Intelligent Systems<br>🎨 Designing digital experiences with a creative edge<br><br>I love building tech that feels futuristic but solves real-world problems.
+Hey, I'm Mehul Bhowmick<br>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRrZHd4em1vaHo4ZDVkZmd2aTlzM2FycmxpbG50bmlraHNxbG1xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fl3jw1xFrpmxGUrWzS/giphy.gif" width="1200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng3dGk0eHJrbTl0N241dmVhd3BteDB4dmIzd28xYTNqYWJlZzM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/boYxZ1fa72kcgr70sN/giphy.gif" width="400"/>
 </div>
+<br>🚀 Full Stack Blockchain Developer | ☁️ Cloud Enthusiast | 🤖 AI & ML Explorer | 🎨 Graphic Designer<br><br>🧠 About Me<br><br>🔗 Passionate about Blockchain & Smart Contract Development<br>🌐 Building scalable Full Stack Applications<br>☁️ Exploring Cloud & DevOps<br>🤖 Curious about AI, ML & Intelligent Systems<br>🎨 Designing digital experiences with a creative edge<br><br>I love building tech that feels futuristic but solves real-world problems.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehulbhowmick4011@gmail.com) 
